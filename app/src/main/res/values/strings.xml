@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Playlist Youtube</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="add_video">Ajouter une video</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="url">url</string>
+    <string name="category">Category</string>
+    <string name="view">View</string>
+</resources>
